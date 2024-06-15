@@ -12,7 +12,7 @@ try:
     print('FLOAT: ', numero_float)
     print(f'O dobro de {numero_float} é {numero_float * 2:.1f}')
 except:
-    print("Isso nào é um digito")
+    print("Isso não é um digito")
 
 
 
