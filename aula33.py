@@ -1,3 +1,4 @@
+# https://docs.python.org/pt-br/3/library/stdtypes.html
 # imutáveis: str, int, float, bool
 
 string = 'matheus'
