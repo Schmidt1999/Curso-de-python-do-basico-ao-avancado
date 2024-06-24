@@ -2,7 +2,7 @@
 Iterando strings com while
 """
 
-nome = 'Manu' # Iterável
+nome = 'Matheus' # Iterável
 
 tamanho_nome = len(nome)
 
