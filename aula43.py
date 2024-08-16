@@ -11,6 +11,4 @@
 texto = "matheuslindao"
 
 for i in texto: 
-    int(i)
-    i += 1
-print(i)
+    print(i)
